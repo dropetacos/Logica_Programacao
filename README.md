@@ -6,3 +6,4 @@ Material referente a aula de programação com Java e Intellij
 2. Operadores Aritiméticos
 3. Operadores de Igualdade, Lógicos e Relacionais
 4. Desafios
+5. Arrays
